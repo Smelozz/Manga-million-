@@ -5,7 +5,8 @@
     "name": "Manga Million",
     "owner": "Smelozz",
     "url": "https://github.com/Smelozz/Manga-million-",
-    "homepage": "https://mangamillion.shueisha.co.jp/en"
+    "homepage": "https://mangamillion.shueisha.co.jp/en",
+    "universalLink": "https://mangamillion.shueisha.co.jp/en"
   },
   "generatedAt": "2026-10-03T00:00:00Z",
   "modules": [
