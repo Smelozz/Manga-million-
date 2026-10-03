@@ -1,0 +1,16 @@
+{
+  "module": "manga-million",
+  "contractVersion": 1,
+  "cases": [
+    {
+      "name": "empty-search",
+      "input": {
+        "query": ""
+      },
+      "expected": {
+        "items": [],
+        "hasMore": false
+      }
+    }
+  ]
+}
