@@ -10,6 +10,7 @@
     "licenseURL": null,
     "website": "https://mangamillion.shueisha.co.jp/en"
   },
+  "baseURL": "https://mangamillion.shueisha.co.jp",
   "universalLink": "https://mangamillion.shueisha.co.jp/en",
   "capabilities": [
     "search",
