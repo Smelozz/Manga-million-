@@ -1,28 +1,29 @@
 {
-  "schemaVersion": 1,
-  "repository": {
-    "id": "Smelozz/Manga-million-",
-    "name": "Manga Million",
-    "owner": "Smelozz",
-    "url": "https://github.com/Smelozz/Manga-million-",
-    "homepage": "https://mangamillion.shueisha.co.jp/en",
-    "universalLink": "https://mangamillion.shueisha.co.jp/en"
-  },
   "generatedAt": "2026-10-03T00:00:00Z",
   "modules": [
     {
       "contentRating": "safe",
       "contentType": "pageImages",
       "familyID": "manga-million",
-      "icon": null,
       "id": "manga-million",
       "language": "en",
-      "manifest": "modules/manga-million/manifest.json",
+      "manifest": {
+        "path": "modules/manga-million/manifest.json",
+        "sha256": "3d2ff9a88c290cbd96b2e7219ff71af766d6a675"
+      },
       "name": "MANGA MILLION",
       "releaseTrack": "beta",
       "status": "active",
       "version": "0.1.0",
       "sortPriority": 0
     }
-  ]
+  ],
+  "repository": {
+    "homepage": "https://github.com/Smelozz/Manga-million-",
+    "id": "Smelozz/Manga-million-",
+    "name": "Manga Million",
+    "owner": "Smelozz",
+    "universalLink": "https://mangamillion.shueisha.co.jp/en"
+  },
+  "schemaVersion": 1
 }
