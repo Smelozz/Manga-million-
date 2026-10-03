@@ -16,6 +16,28 @@
       "sortPriority": 0
     }
   ],
-  "repository": "https://github.com/Smelozz/Manga-million-",
+  {
+  "generatedAt": "2026-10-03T00:00:00Z",
+  "modules": [
+    {
+      "contentRating": "safe",
+      "contentType": "pageImages",
+      "familyID": "manga-million",
+      "icon": null,
+      "id": "manga-million",
+      "language": "en",
+      "manifest": {
+        "path": "modules/manga-million/manifest.json",
+        "sha256": "YOUR_MANIFEST_HASH"
+      },
+      "name": "MANGA MILLION",
+      "releaseTrack": "beta",
+      "status": "active",
+      "version": "0.1.0",
+      "sortPriority": 0
+    }
+  ],
+  "schemaVersion": 1
+}
   "schemaVersion": 1
 }
