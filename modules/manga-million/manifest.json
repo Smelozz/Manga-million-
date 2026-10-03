@@ -1,1 +1,44 @@
-
+{
+  "allowedHosts": [
+    "mangamillion.shueisha.co.jp",
+    "*.mangamillion.shueisha.co.jp"
+  ],
+  "attribution": {
+    "author": "Smelozz",
+    "authorizationURL": null,
+    "licenseName": null,
+    "licenseURL": null,
+    "website": "https://mangamillion.shueisha.co.jp/en"
+  },
+  "baseURL": "https://mangamillion.shueisha.co.jp/en",
+  "capabilities": [
+    "search",
+    "details",
+    "chapters",
+    "images",
+    "imageRequest"
+  ],
+  "contentRating": "safe",
+  "contentType": "pageImages",
+  "contractVersion": 1,
+  "entry": {
+    "path": "modules/manga-million/index.js",
+    "sha256": "51805cc58168e11730343c0c2609de33d7ba9759"
+  },
+  "familyID": "manga-million",
+  "id": "manga-million",
+  "language": "en",
+  "legacyIDs": [],
+  "limits": {
+    "cacheTTLSeconds": 900,
+    "maxConcurrentRequests": 2,
+    "maxResponseBytes": 8388608,
+    "maxScriptBytes": 262144,
+    "timeoutMilliseconds": 25000
+  },
+  "minimumAppVersion": "1.0.0",
+  "name": "MANGA MILLION",
+  "releaseTrack": "beta",
+  "status": "active",
+  "version": "0.1.0"
+}
