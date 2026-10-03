@@ -9,9 +9,9 @@
       "language": "en",
       "manifest": {
         "path": "modules/manga-million/manifest.json",
-        f9d68fa638171d1a09377a303b220abdb9baadf991d2171eadfdc4a1ffa03425
+        "sha256": "f9d68fa638171d1a09377a303b220abdb9baadf991d2171eadfdc4a1ffa03425"
       },
-      name": "MANGA MILLION",
+      "name": "MANGA MILLION",
       "releaseTrack": "beta",
       "status": "active",
       "version": "0.1.0",
