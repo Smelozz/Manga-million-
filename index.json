@@ -1,4 +1,10 @@
 {
+  "schemaVersion": 1,
+  "repository": {
+    "name": "Manga Million",
+    "owner": "Smelozz",
+    "url": "https://github.com/Smelozz/Manga-million-"
+  },
   "generatedAt": "2026-10-03T00:00:00Z",
   "modules": [
     {
@@ -15,6 +21,5 @@
       "version": "0.1.0",
       "sortPriority": 0
     }
-  ],
-  "schemaVersion": 1
+  ]
 }
