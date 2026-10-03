@@ -23,7 +23,7 @@
   "contractVersion": 1,
   "entry": {
     "path": "modules/manga-million/index.js",
-    "sha256": "51805cc58168e11730343c0c2609de33d7ba9759"
+    "sha256": "9b753704ae5e28b88b79cd1d37e7c168476e38c59b11bf9dc713bcb645970ad7"
   },
   "familyID": "manga-million",
   "id": "manga-million",
